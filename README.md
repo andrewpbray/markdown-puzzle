@@ -1,6 +1,6 @@
-## Markdown Puzzle
+## Quarto Puzzle
 
-Refresh your knowledge of markdown by opening `markdown-puzzle.qmd` and adding five features.
+Refresh your knowledge of markdown by opening `quarto-puzzle.qmd` and adding five features.
 
 1. Add an author to the yaml.
 2. Convert "Advanced Quarto" to be a level two header.
