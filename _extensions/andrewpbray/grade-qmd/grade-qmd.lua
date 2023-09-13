@@ -70,7 +70,7 @@ function Pandoc(x)
                                       pandoc.Str(part_2),
                                       pandoc.Str(part_3),
                                       pandoc.Str(part_4),
-                                      pandoc.Str(part_4)}))
+                                      pandoc.Str(part_5)}))
 
   -- When completed, add victory!
   if p1_bool and p2_bool and p3_bool and p4_bool then
