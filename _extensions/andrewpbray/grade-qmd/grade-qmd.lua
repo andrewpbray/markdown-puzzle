@@ -73,7 +73,7 @@ function Pandoc(x)
                                       pandoc.Str(part_5)}))
 
   -- When completed, add victory!
-  if p1_bool and p2_bool and p3_bool and p4_bool then
+  if p1_bool and p2_bool and p3_bool and p4_bool and p5_bool then
     x.blocks:insert(pandoc.Header(1, pandoc.Inlines({pandoc.Str("Victory!")})))
     x.blocks:insert(pandoc.Image("", "https://upload.wikimedia.org/wikipedia/en/f/ff/SuccessKid.jpg"))
   end
